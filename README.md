@@ -6,3 +6,5 @@
 
 
 ## Parser.py - Парсер собирает данные всех товаров https://bwintool.en.alibaba.com/
+
+## Parser.py - Парсер собирает данные всех товаров https://bwintool.en.alibaba.com/ c указанных URL
